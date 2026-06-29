@@ -1,0 +1,7 @@
+# Go test binaries
+*.test
+
+# Coverage profiles
+cover.out
+*.cover
+coverage.txt
